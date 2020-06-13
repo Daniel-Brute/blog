@@ -25,7 +25,7 @@ NODE_PATH = "..."
 - 配置npm信息
 
 ```
-npm -v（npm安装成功后npm自动安装）
+npm -v（nodejs安装成功后npm自动安装）
 npm config set cache "%NODE_PATH%\node_cache"
 npm config set prefix "%NODE_PATH%\node_global"
 npm config set registry=http://registry.npm.taobao.org
